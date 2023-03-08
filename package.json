@@ -1,0 +1,11 @@
+{
+  "name": "rpg-assistant",
+  "version": "1.0.0",
+  "description": "Discord bot system that assists RPG campaigns with full character sheet and dice rolling system. With the \"RPG-Assistant-Master\" auxiliary system, in C#, it is possible to define the result of dice rolls by modifying the \"config.json\" file.",
+  "main": "core.js",
+  "author": "henry-vg",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mathjs": "^7.6.0"
+  }
+}

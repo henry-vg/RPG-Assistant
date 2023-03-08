@@ -1,0 +1,8 @@
+{
+  "prefix": "/",
+  "master_id": "",
+  "master_on": true,
+  "players_on": false,
+  "min": 1,
+  "max": 20
+}
