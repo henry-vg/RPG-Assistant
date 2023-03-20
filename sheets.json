@@ -1,0 +1,293 @@
+{
+	"John": {
+		"user_id": [
+			""
+		],
+		"image_path": "",
+		"color": "#FF0000",
+		"About": {
+			"Name": "Lorem ipsum",
+			"Age": "Lorem ipsum",
+			"Height": "Lorem ipsum",
+			"Weight": "Lorem ipsum",
+			"Hair": "Lorem ipsum",
+			"Eyes": "Lorem ipsum",
+			"Ethnicity": "Lorem ipsum",
+			"Story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+		},
+		"Status": {
+			"Level": 1,
+			"HP": 0,
+			"SP": 0,
+			"MP": 0,
+			"HPInc": 0,
+			"SPInc": 0,
+			"MPInc": 0,
+			"Armor": 0,
+			"Sanity": 0
+		},
+		"Attributes": {
+			"Strength": 0,
+			"Resistance": 0,
+			"Dexterity": 0,
+			"Spirit": 0,
+			"Intelligence": 0,
+			"Perception": 0,
+			"Charisma": 0,
+			"Luck": 0
+		},
+		"Inventory": {
+			"#1": "",
+			"#2": "",
+			"#3": "",
+			"#4": "",
+			"#5": "",
+			"#6": "",
+			"#7": "",
+			"#8": "",
+			"#9": "",
+			"#10": ""
+		},
+		"Special Skill": {
+			"Description": "Lorem ipsum dolor sit amet.",
+			"Weakness": "Lorem ipsum.",
+			"Cost": "Lorem ipsum."
+		},
+		"Skills": {
+			"#1": {
+				"Description": "Lorem ipsum dolor sit amet.",
+				"Weakness": "Lorem ipsum.",
+				"Cost": "Lorem ipsum."
+			},
+			"#2": {
+				"Description": "Lorem ipsum dolor sit amet.",
+				"Weakness": "Lorem ipsum.",
+				"Cost": "Lorem ipsum."
+			},
+			"#3": {
+				"Description": "Lorem ipsum dolor sit amet.",
+				"Weakness": "Lorem ipsum.",
+				"Cost": "Lorem ipsum."
+			},
+			"#4": {
+				"Description": "Lorem ipsum dolor sit amet.",
+				"Weakness": "Lorem ipsum.",
+				"Cost": "Lorem ipsum."
+			},
+			"#5": {
+				"Description": "",
+				"Weakness": "",
+				"Cost": ""
+			},
+			"#6": {
+				"Description": "",
+				"Weakness": "",
+				"Cost": ""
+			},
+			"#7": {
+				"Description": "",
+				"Weakness": "",
+				"Cost": ""
+			},
+			"#8": {
+				"Description": "",
+				"Weakness": "",
+				"Cost": ""
+			}
+		}
+	},
+	"Peter": {
+		"user_id": [
+			""
+		],
+		"image_path": "",
+		"color": "#00FF00",
+		"About": {
+			"Name": "Lorem ipsum",
+			"Age": "Lorem ipsum",
+			"Height": "Lorem ipsum",
+			"Weight": "Lorem ipsum",
+			"Hair": "Lorem ipsum",
+			"Eyes": "Lorem ipsum",
+			"Ethnicity": "Lorem ipsum",
+			"Story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+		},
+		"Status": {
+			"Level": 1,
+			"HP": 0,
+			"SP": 0,
+			"MP": 0,
+			"HPInc": 0,
+			"SPInc": 0,
+			"MPInc": 0,
+			"Armor": 0,
+			"Sanity": 0
+		},
+		"Attributes": {
+			"Strength": 0,
+			"Resistance": 0,
+			"Dexterity": 0,
+			"Spirit": 0,
+			"Intelligence": 0,
+			"Perception": 0,
+			"Charisma": 0,
+			"Luck": 0
+		},
+		"Inventory": {
+			"#1": "",
+			"#2": "",
+			"#3": "",
+			"#4": "",
+			"#5": "",
+			"#6": "",
+			"#7": "",
+			"#8": "",
+			"#9": "",
+			"#10": ""
+		},
+		"Special Skill": {
+			"Description": "Lorem ipsum dolor sit amet.",
+			"Weakness": "Lorem ipsum.",
+			"Cost": "Lorem ipsum."
+		},
+		"Skills": {
+			"#1": {
+				"Description": "Lorem ipsum dolor sit amet.",
+				"Weakness": "Lorem ipsum.",
+				"Cost": "Lorem ipsum."
+			},
+			"#2": {
+				"Description": "Lorem ipsum dolor sit amet.",
+				"Weakness": "Lorem ipsum.",
+				"Cost": "Lorem ipsum."
+			},
+			"#3": {
+				"Description": "Lorem ipsum dolor sit amet.",
+				"Weakness": "Lorem ipsum.",
+				"Cost": "Lorem ipsum."
+			},
+			"#4": {
+				"Description": "Lorem ipsum dolor sit amet.",
+				"Weakness": "Lorem ipsum.",
+				"Cost": "Lorem ipsum."
+			},
+			"#5": {
+				"Description": "",
+				"Weakness": "",
+				"Cost": ""
+			},
+			"#6": {
+				"Description": "",
+				"Weakness": "",
+				"Cost": ""
+			},
+			"#7": {
+				"Description": "",
+				"Weakness": "",
+				"Cost": ""
+			},
+			"#8": {
+				"Description": "",
+				"Weakness": "",
+				"Cost": ""
+			}
+		}
+	},
+	"James": {
+		"user_id": [
+			""
+		],
+		"image_path": "",
+		"color": "#0000FF",
+		"About": {
+			"Name": "Lorem ipsum",
+			"Age": "Lorem ipsum",
+			"Height": "Lorem ipsum",
+			"Weight": "Lorem ipsum",
+			"Hair": "Lorem ipsum",
+			"Eyes": "Lorem ipsum",
+			"Ethnicity": "Lorem ipsum",
+			"Story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+		},
+		"Status": {
+			"Level": 1,
+			"HP": 0,
+			"SP": 0,
+			"MP": 0,
+			"HPInc": 0,
+			"SPInc": 0,
+			"MPInc": 0,
+			"Armor": 0,
+			"Sanity": 0
+		},
+		"Attributes": {
+			"Strength": 0,
+			"Resistance": 0,
+			"Dexterity": 0,
+			"Spirit": 0,
+			"Intelligence": 0,
+			"Perception": 0,
+			"Charisma": 0,
+			"Luck": 0
+		},
+		"Inventory": {
+			"#1": "",
+			"#2": "",
+			"#3": "",
+			"#4": "",
+			"#5": "",
+			"#6": "",
+			"#7": "",
+			"#8": "",
+			"#9": "",
+			"#10": ""
+		},
+		"Special Skill": {
+			"Description": "Lorem ipsum dolor sit amet.",
+			"Weakness": "Lorem ipsum.",
+			"Cost": "Lorem ipsum."
+		},
+		"Skills": {
+			"#1": {
+				"Description": "Lorem ipsum dolor sit amet.",
+				"Weakness": "Lorem ipsum.",
+				"Cost": "Lorem ipsum."
+			},
+			"#2": {
+				"Description": "Lorem ipsum dolor sit amet.",
+				"Weakness": "Lorem ipsum.",
+				"Cost": "Lorem ipsum."
+			},
+			"#3": {
+				"Description": "Lorem ipsum dolor sit amet.",
+				"Weakness": "Lorem ipsum.",
+				"Cost": "Lorem ipsum."
+			},
+			"#4": {
+				"Description": "Lorem ipsum dolor sit amet.",
+				"Weakness": "Lorem ipsum.",
+				"Cost": "Lorem ipsum."
+			},
+			"#5": {
+				"Description": "",
+				"Weakness": "",
+				"Cost": ""
+			},
+			"#6": {
+				"Description": "",
+				"Weakness": "",
+				"Cost": ""
+			},
+			"#7": {
+				"Description": "",
+				"Weakness": "",
+				"Cost": ""
+			},
+			"#8": {
+				"Description": "",
+				"Weakness": "",
+				"Cost": ""
+			}
+		}
+	}
+}

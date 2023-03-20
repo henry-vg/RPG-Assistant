@@ -1,0 +1,56 @@
+{
+    "players":
+    {
+        "John": [ "john", "jo" ],
+        "Peter": [ "peter", "pe" ],
+        "James": [ "james", "ja" ]
+    },
+    "types":
+    {
+        "General": [ "general", "stats", "status", "attributes", "sheet", "attr" ],
+        "Special Skill": [ "special", "ss", "spsk", "specialskill", "special-skill", "special_skill" ],
+        "Skills": [ "skills", "sk", "skill" ],
+        "Inventory": [ "inventory", "inv", "i", "backpack" ],
+        "Story": [ "background", "story" ]
+    },
+    "infos":
+    {
+        "Name": [ "name" ],
+        "Age": [ "age" ],
+        "Height": [ "height" ],
+        "Weight": [ "kg", "mass", "weight", "kilo" ],
+        "Hair": [ "hair" ],
+        "Eyes": [ "eyes" ],
+        "Ethnicity": [ "ethnicity" ],
+        "Level": [ "lvl", "level" ],
+        "HP": [ "hp", "health", "hpp" ],
+        "SP": [ "sp", "stamina", "spp" ],
+        "MP": [ "mp", "magic", "mana", "mpp" ],
+        "HPInc": [ "hpinc" ],
+        "SPInc": [ "spinc" ],
+        "MPInc": [ "mpinc" ],
+        "Armor": [ "armor", "arm" ],
+        "Sanity": [ "sanity", "san" ],
+        "Strength": [ "strength", "str" ],
+        "Resistance": [ "resistance", "res" ],
+        "Dexterity": [ "dexterity", "dex" ],
+        "Spirit": [ "spirit", "spi" ],
+        "Intelligence": [ "int", "intelligence" ],
+        "Perception": [ "perception", "per" ],
+        "Charisma": [ "charisma", "cha" ],
+        "Luck": [ "luck", "luc" ],
+        "Description": [ "description" ],
+        "Weakness": [ "weakness", "wea" ],
+        "Cost": [ "costs", "cost" ],
+        "#1": [ "#1", "1" ],
+        "#2": [ "#2", "2" ],
+        "#3": [ "#3", "3" ],
+        "#4": [ "#4", "4" ],
+        "#5": [ "#5", "5" ],
+        "#6": [ "#6", "6" ],
+        "#7": [ "#7", "7" ],
+        "#8": [ "#8", "8" ],
+        "#9": [ "#9", "9" ],
+        "#10": [ "#10", "10" ]
+    }
+}

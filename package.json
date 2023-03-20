@@ -1,0 +1,11 @@
+{
+  "name": "rpg-assistant",
+  "version": "1.0.0",
+  "description": "Discord bot system that assists RPG campaigns with full character sheet and complete dice rolling system.",
+  "main": "core.js",
+  "author": "henry-vg",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mathjs": "^7.6.0"
+  }
+}
